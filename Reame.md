@@ -1,0 +1,1 @@
+Coding language JavaScript is used in the Question.
